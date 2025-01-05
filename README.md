@@ -1,4 +1,4 @@
-# Add calendar permissions
+# Set calendar permissions (changing existing permissions)
 
 You need to change a few variables in order the script to work:
 1. sourceUPN = relevant user.
